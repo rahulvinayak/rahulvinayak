@@ -9,6 +9,13 @@
 📡 Passionate about **IoT, hardware design, and real-time systems**  
 
 ---
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/rahul-vinayak-j-r)  
+[![Email](https://img.shields.io/badge/Email-rahul@example.com-red?logo=gmail)](mailto:rahulvinayak.j.r@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/rahulvinayak)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=firefox)](https://your-portfolio-link.com)  
+
+---
 
 ## ⚡ Skills & Tools
 [![C](https://img.shields.io/badge/Code-C-blue.svg)]()
