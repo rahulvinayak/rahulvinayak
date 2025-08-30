@@ -1,7 +1,11 @@
+<h1 align="center"> 🪫 Electronics & Embedded Systems Developer</h1>
+<h3 align="center">STM32 • ESP32 • FreeRTOS • Arduino • KiCad • RP2040</h3>
+
+
 # 👋 Hi, I'm Rahul Vinayak J. R.  
 
 🔧 **Electronics & Embedded Systems Developer**  
-💻 Focused on **STM32 | ESP32 | FreeRTOS | Arduino | KiCad**  
+💻 Focused on **STM32 | ESP32 | FreeRTOS | Arduino | KiCad | RP2040**  
 📡 Passionate about **IoT, hardware design, and real-time systems**  
 
 ---
@@ -12,7 +16,10 @@
 [![Python](https://img.shields.io/badge/Code-Python-yellow.svg)]()
 [![STM32](https://img.shields.io/badge/MCU-STM32-darkblue.svg)]()
 [![ESP32](https://img.shields.io/badge/MCU-ESP32-red.svg)]()
+[![RP2040](https://img.shields.io/badge/MCU-RP2040-red.svg)]()
 [![Arduino](https://img.shields.io/badge/Platform-Arduino-orange.svg)]()
+[![STM CubeIde](https://img.shields.io/badge/Platform-STMCubeIde-orange.svg)]()
+[![Platformio](https://img.shields.io/badge/Platform-Platformio-orange.svg)]()
 [![FreeRTOS](https://img.shields.io/badge/RTOS-FreeRTOS-green.svg)]()
 [![KiCad](https://img.shields.io/badge/EDA-KiCad-blue.svg)]()
 
