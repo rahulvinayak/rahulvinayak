@@ -33,7 +33,7 @@
 ---
 
 ## 📂 Featured Projects
-- 🔌 [**Contributions**](https://github.com/your-username/contributions) – KiCad schematics, embedded codes, and electronics resources  
+- 🔌 [**Contributions**](https://github.com/rahulvinayak/Contributions) – KiCad schematics, embedded codes, and electronics resources  
 - ⚙️ **STM32 FreeRTOS Examples** – Task scheduling, UART, I2C, SPI with FreeRTOS  
 - 📡 **ESP32 IoT Projects** – OTA, Wi-Fi, and sensor integration  
 - 🖥️ **KiCad PCB Designs** – Open-source PCB layouts and circuits  
