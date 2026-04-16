@@ -40,16 +40,5 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulvinayak&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulvinayak&layout=compact&theme=radical)  
-
----
-
-## 🏆 Achievements & Activity
-![trophy](https://github-profile-trophy.vercel.app/?username=rahulvinayak&theme=radical&margin-w=10&margin-h=10)  
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulvinayak&theme=radical)  
 
 
